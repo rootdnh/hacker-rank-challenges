@@ -22,6 +22,8 @@ function readLine() {
     return inputString[currentLine++];
 }
 
+
+
 /*
  * Complete the 'aVeryBigSum' function below.
  *
