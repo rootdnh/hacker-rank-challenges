@@ -1,1 +1,1 @@
-<h3>RackerRank Challenges with nodejs</h3>
+<h3>HackerRank Challenges with nodejs</h3>
